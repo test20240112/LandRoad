@@ -1,4 +1,0 @@
-两个shp为一组，上传两个shp，点击计算指标即可，
-注意每次计算完指标，都需要点击清空按钮重置一下以便计算下一组数据
-Two shps are a group. Upload two shps and click Calculate Indicators. 
-Note that each time you finish calculating the indicators, you need to click the Clear button to reset in order to calculate the next set of data.
